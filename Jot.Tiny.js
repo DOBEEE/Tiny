@@ -1,6 +1,6 @@
 /*
   一个简单前端模版引擎 Jot.Tiny
-  作者：蜗眼 <iceet@uoeye.com>
+  作者：汉堡鸡肉卷鸡腿鸡翅 <2leg@immaster.cn>
  
  模版例子：
  渲染数据：{title:'asfd',data:[{link:'//www.baidu.com',clink:1,name:'title'}]}
